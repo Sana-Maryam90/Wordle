@@ -46,4 +46,4 @@ This is a Python implementation of the popular word-guessing game, Wordle. In Wo
 ![wordle game over](https://github.com/Sana-Maryam90/Wordle/assets/99211506/3e40e0fb-b798-45b4-b202-715527b9188d)
 
 ### Additional Info
-This game was made for **Power to Fly Hackathon** in 2021. This repo contains its implementaion using turtle as well as tkinter. Wordle.py contains the wordle game made with turtle and main.py contains wordle game by using tkinter.
+This game was made for **Power to Fly Hackathon** in 2022. This repo contains its implementaion using turtle as well as tkinter. Wordle.py contains the wordle game made with turtle and main.py contains wordle game by using tkinter.
